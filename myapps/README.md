@@ -1,6 +1,6 @@
 # ModPad
 
-ModPad is a simple, open-source text editor application built using Python and `customtkinter`. It provides a clean and modern interface for creating and editing text files.
+ModPad is a simple, open-source notepad application built using Python and `customtkinter`. It provides a clean and modern interface for creating text files.
 
 ## Features
 
@@ -13,7 +13,7 @@ ModPad is a simple, open-source text editor application built using Python and `
 1. **Download or Clone the Repository**:
 
     ```sh
-    git clone https://github.com/yourusername/ModPad.git
+    git clone https://github.com/SarntRoos/ModPad.git
     ```
 
 2. **Navigate to the Project Directory**:
